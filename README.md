@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Madeon</h1>
 <h3 align="center">Apasionado por entrar al mundo de la programación y el diseño gráfico.</h3>
 
-- 🔭 Actualmente trabajo en [👨‍💻 GC Bot](http://discord.com/oauth2/authorize?client_id=933785571489353738&permissions=536870382718&scope=bot%20applications.commands)
+- 🔭 Actualmente trabajo en [👨‍💻 SRK Bot](https://discord.com/oauth2/authorize?client_id=1131626752649740328&scope=bot&permissions=1099511627775)
 
 - 🌱 Estoy estudiando **HTML, CSS & DISEÑO GRAFICO**
 
